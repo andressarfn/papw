@@ -17,10 +17,10 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<sonar.projectKey>andressarfn_papw</sonar.projectKey>
+		<sonar.projectKey>andressa</sonar.projectKey>
 		<sonar.organization>andressarfn</sonar.organization>
-		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.login>043c6ee19e7ab769c08e688c25ce648fc0f3bd2c</sonar.login>
+		<sonar.host.url>http://ip172-18-0-59-brlbbptim9m000ag256g-9000.direct.labs.play-with-docker.com</sonar.host.url>
+		<sonar.login>96a9f2effb248523888642efa005c5145ab4b4b1</sonar.login>
 
 	</properties>
 
